@@ -1,7 +1,7 @@
 ### Hello World, 👋 :earth_asia: :rocket: I'm Abraham
 
 
-I'm abraham as an engineer at telecommunication industry. But i'm also love :love: about data science.
+I'm abraham as an engineer at telecommunication industry. But i'm also love :heart: about data science.
 Currently active learning anything about data science.
 
 
