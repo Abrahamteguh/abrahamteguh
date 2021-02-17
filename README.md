@@ -2,7 +2,7 @@
 
 
 I'm abraham as an engineer at telecommunication industry. But i'm also love :love: about data science.
-Curenntly active learning anything about data science.
+Currently active learning anything about data science.
 
 
 ### Something abaout me :point_down:
